@@ -1,0 +1,20 @@
+v1.1.0 (Dec 22, 2014):
+- Kodi 14 (Helix) compatible
+- Bug corrections and optimizations
+
+v1.0.2 (Mar 30, 2014):
+- ActivateScreensaver-function added for Gotham
+- Random- and repeat-all-function added for PlayMedia
+- Various improvements
+- License changed to non-commercial
+- Icon changed
+
+v1.0.1 (Nov 19, 2013):
+- Bug corrections and optimizations
+- Icon & Fanart added
+- Replaced repeat-action with different action-types
+- AfterIDLE-actions added
+- No-operation-action added for onIDLE- and afterIDLE-actions
+
+v1.0.0 (Sep 03, 2013):
+- Initial release
